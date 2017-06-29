@@ -1,0 +1,1 @@
+NOTE: During PCB layout, a cutout needs to be added to the interior of the SMD footprint! 
